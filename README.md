@@ -1,7 +1,7 @@
 
 <h1 aling="center"> System.out.println("Hola mundo!"); 
 </h1>
-
+![snake gif](https://github.com/Aserturik/Aserturik/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Aserturik/Aserturik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
