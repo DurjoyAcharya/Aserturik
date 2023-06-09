@@ -1,6 +1,11 @@
 <h2 align="center">System.out.println("¡Hola mundo!");</h2>
 
 ![snake gif](https://github.com/Aserturik/Aserturik/blob/output/github-contribution-grid-snake.svg)
+<br>
+<a href="https://github.com/Aserturik">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserturik&langs_count=16&layout=compact&theme=dark" alt="bouaskaoun">
+	</a>
+<br/>
 <!--
 **Aserturik/Aserturik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
