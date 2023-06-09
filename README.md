@@ -1,6 +1,4 @@
-
-<h1 aling="center"> System.out.println("Hola mundo!"); 
-</h1>
+<h2 align="center">System.out.println("¡Hola mundo!");</h2>
 
 ![snake gif](https://github.com/Aserturik/Aserturik/blob/output/github-contribution-grid-snake.svg)
 <!--
