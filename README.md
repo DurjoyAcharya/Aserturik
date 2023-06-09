@@ -6,10 +6,13 @@
 <p align="center">
 <a href="https://github.com/Aserturik">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserturik&langs_count=16&layout=compact&theme=dark" alt="bouaskaoun">
-	</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</a>
+<!--
+<br/>	
+	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
 </p>
+
 <!--
 **Aserturik/Aserturik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
